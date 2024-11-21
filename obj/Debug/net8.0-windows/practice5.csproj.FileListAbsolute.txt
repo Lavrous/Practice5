@@ -1,0 +1,16 @@
+D:\LAB1\practice5-master\bin\Debug\net8.0-windows\practice5.exe
+D:\LAB1\practice5-master\bin\Debug\net8.0-windows\practice5.deps.json
+D:\LAB1\practice5-master\bin\Debug\net8.0-windows\practice5.runtimeconfig.json
+D:\LAB1\practice5-master\bin\Debug\net8.0-windows\practice5.dll
+D:\LAB1\practice5-master\bin\Debug\net8.0-windows\practice5.pdb
+D:\LAB1\practice5-master\obj\Debug\net8.0-windows\practice5.Form1.resources
+D:\LAB1\practice5-master\obj\Debug\net8.0-windows\practice5.csproj.GenerateResource.cache
+D:\LAB1\practice5-master\obj\Debug\net8.0-windows\practice5.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB1\practice5-master\obj\Debug\net8.0-windows\practice5.AssemblyInfoInputs.cache
+D:\LAB1\practice5-master\obj\Debug\net8.0-windows\practice5.AssemblyInfo.cs
+D:\LAB1\practice5-master\obj\Debug\net8.0-windows\practice5.csproj.CoreCompileInputs.cache
+D:\LAB1\practice5-master\obj\Debug\net8.0-windows\practice5.dll
+D:\LAB1\practice5-master\obj\Debug\net8.0-windows\refint\practice5.dll
+D:\LAB1\practice5-master\obj\Debug\net8.0-windows\practice5.pdb
+D:\LAB1\practice5-master\obj\Debug\net8.0-windows\practice5.genruntimeconfig.cache
+D:\LAB1\practice5-master\obj\Debug\net8.0-windows\ref\practice5.dll
